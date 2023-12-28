@@ -1,7 +1,7 @@
 ---
 type: link
 title: "Google Photos"
-description: ""
+description: "All the pictures I capture in one place. Shot on iPhone."
 backgroundColor: "#e1f2db"
 textColor: "#274e13"
 borderColor: "#748a69"

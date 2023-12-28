@@ -1,5 +1,6 @@
 {
   "title": "Vivek's Studio",
-  "description": "About me here.",
+  "description": "Hello there, I'm Vivekananda Sai and welcome to my little space on the internet!",
+  "credits": "This page is built using linkverse, a really cool open-sourced astro project that I customised and deployed on Vercel. I'm working on a detailed guide that'll come up on my notion page.",
   "image": "https://i.ibb.co/Sx46JGP/IMG-2443.jpg"
 }

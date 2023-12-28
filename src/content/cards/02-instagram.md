@@ -1,7 +1,7 @@
 ---
 type: link
 title: "My Instagram"
-description: ""
+description: "Send a follow request! It's my social media headquarters :))"
 backgroundColor: "#fff0f5"
 textColor: "#E1306C"
 borderColor: "#f78fb2"

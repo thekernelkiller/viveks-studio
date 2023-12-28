@@ -1,12 +1,18 @@
 ---
 type: link
-title: "Bookmarks"
-description: "All my internet favourites in one place"
-backgroundColor: "#dce9f5"
+title: "Raindrop.io"
+description: "All my internet favourites in one place."
+backgroundColor: "#dae9f7"
 textColor: "#032544"
 borderColor: "#073763"
 icon:
-  src: https://static.thenounproject.com/png/6037217-200.png
+  src: https://miro.medium.com/v2/resize:fit:1024/1*JtxOMEcB0N7yoGiHjFf1Gg.png
   alt: "raindrop"
+button: 
+  text: "Bookmarks"
+  link: "https://raindrop.io/v288399/viveks-internet-finds-40318331"
+  backgroundColor: "#d0e4f7"
+  textColor: "#032544"
+  borderColor: "#073763"
 ---
 
