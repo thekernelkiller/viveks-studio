@@ -1,0 +1,31 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+import constants from "../constants.json";
+import Link from "../components/Link.astro";
+import Quote from "../components/Quote.astro";
+
+const cards = await getCollection("cards");
+---
+
+<Layout title={constants.title}>
+	<section class="lg:col-span-2 px-4">
+		<ul
+			role="list"
+			class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 grid-flow-dense"
+		>
+			{
+				cards.map((card) => {
+					if (card.data.type === "link") {
+						return <Link body={card.data} slug={card.slug} />;
+					}
+					if (card.data.type === "quote") {
+						return <Quote body={card.data} slug={card.slug} />;
+					}
+					return null;
+				})
+			}
+		</ul>
+	</section>
+</Layout>
