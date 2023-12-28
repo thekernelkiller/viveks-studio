@@ -10,7 +10,7 @@ icon:
   alt: "raindrop"
 button: 
   text: "Bookmarks"
-  link: "https://raindrop.io/v288399/viveks-internet-finds-40318331"
+  link: "https://raindrop.io/vivekirl/viveks-internet-finds-40318331"
   backgroundColor: "#d0e4f7"
   textColor: "#032544"
   borderColor: "#073763"
