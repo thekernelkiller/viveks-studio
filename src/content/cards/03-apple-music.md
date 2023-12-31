@@ -10,7 +10,7 @@ icon:
   alt: "apple music"
 button: 
   text: "Playlist"
-  link: "https://music.apple.com/in/playlist/favourite-songs/pl.u-0JUYpENBXe"
+  link: "https://music.apple.com/in/playlist/curated-favourites/pl.u-6mo4aPvC8mD1bZ3"
   backgroundColor: "#f7616b"
   textColor: "#ffffff"
   borderColor: "#e25d62"
