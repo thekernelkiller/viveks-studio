@@ -32,6 +32,7 @@ if (cardSize === "medium") {
   colSpan = "md:col-span-3 md:row-span-3";
 }
 
+const isEmoji = typeof icon === 'string';
 ---
 
 <li class={colSpan}>
@@ -41,7 +42,10 @@ if (cardSize === "medium") {
 		style={{ backgroundColor, color: textColor, borderColor }}
 		transition:name={slug}
 	>
-		{icon && <img src={icon.src} class="w-12 h-12 mb-4" alt={icon.alt} />}
+		{isEmoji
+			? <div class="w-12 h-12 mb-4 text-4xl">{icon}</div> // Render emoji as text
+			: <img src={icon.src} class="w-12 h-12 mb-4" alt={icon.alt} /> // Render image if icon is an object
+		}
 		<div class="flex-1">
 			<div class="font-semibold text-lg">
 				{title}
