@@ -6,7 +6,7 @@ backgroundColor: "#ededed"
 textColor: "#2e2e2e"
 borderColor: "#9c9c9c"
 icon: 
-  src: "https://cdn.worldvectorlogo.com/logos/notion-2.svg"
+  src: "👀"
   alt: "eyes emoji"
 button: 
   text: "Blogs"
