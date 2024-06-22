@@ -5,7 +5,9 @@ description: "A curated page of my thoughts, observations, opinions and more."
 backgroundColor: "#ededed"
 textColor: "#2e2e2e"
 borderColor: "#9c9c9c"
-icon: "👀"
+icon: 
+  src: "👀"
+  alt: "eyes emoji"
 button: 
   text: "Blogs"
   link: "https://vivekirl.space/"
