@@ -14,4 +14,5 @@ button:
   backgroundColor: "#f5dae3"
   textColor: "#E1306C"
   borderColor: "#E1306C"
+cardSize: 'medium'
 ---
