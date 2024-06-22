@@ -15,7 +15,7 @@ export const linkSchema = baseSchema.extend({
   title: z.string(),
   description: z.string(),
   icon: z.object({
-    src: z.string().url(),
+    src: z.string(),
     alt: z.string(),
   }).optional(),
   button: z.object({
