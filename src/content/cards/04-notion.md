@@ -14,5 +14,5 @@ button:
   backgroundColor: "#dddddd"
   textColor: "#2e2e2e"
   borderColor: "#7f7f7f"
-cardSize: 'medium'
+cardSize: 'large'
 ---
