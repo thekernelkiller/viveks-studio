@@ -6,8 +6,8 @@ backgroundColor: "#e6eae9"
 textColor: "#000403"
 borderColor: "#4e6b64"
 icon: 
-  src: public/2728.svg
-  alt: "eyes emoji"
+  src: 2728.svg
+  alt: "sparkle emoji"
 button: 
   text: "Ideas"
   link: "https://vivekirl.space/"

@@ -6,8 +6,8 @@ backgroundColor: "#e6eae9"
 textColor: "#000403"
 borderColor: "#4e6b64"
 icon: 
-  src: public/github.svg
-  alt: "eyes emoji"
+  src: github.svg
+  alt: "GitHub"
 button: 
   text: "Code"
   link: "https://github.com/thekernelkiller"

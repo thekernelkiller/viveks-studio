@@ -6,7 +6,7 @@ backgroundColor: "#e6eae9"
 textColor: "#000403"
 borderColor: "#4e6b64"
 icon: 
-  src: public/resume.svg
+  src: resume.svg
   alt: "scroll emoji"
 button: 
   text: "CV"

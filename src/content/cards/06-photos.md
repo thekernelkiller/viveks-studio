@@ -6,7 +6,7 @@ backgroundColor: "#e6eae9"
 textColor: "#000403"
 borderColor: "#4e6b64"
 icon:
-  src: public/E142.svg
+  src: E142.svg
   alt: "google photos"
 button: 
   text: "Album"
