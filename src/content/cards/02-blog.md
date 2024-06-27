@@ -9,7 +9,7 @@ icon:
   src: 2728.svg
   alt: "sparkle emoji"
 button: 
-  text: "Ideas"
+  text: "Blogs"
   link: "https://vivekirl.space/"
   backgroundColor: "#ccd5d3"
   textColor: "#000403"
