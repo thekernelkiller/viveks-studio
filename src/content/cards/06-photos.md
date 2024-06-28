@@ -10,7 +10,7 @@ icon:
   alt: "google photos"
 button: 
   text: "Album"
-  link: "https://photos.app.goo.gl/Dbm5BRyEQMurNiFv7"
+  link: "https://bit.ly/viveks-photos"
   backgroundColor: "#ccd5d3"
   textColor: "#000403"
   borderColor: "#4e6b64"

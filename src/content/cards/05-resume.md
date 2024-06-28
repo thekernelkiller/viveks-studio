@@ -1,7 +1,7 @@
 ---
 type: link
 title: "Resume"
-description: "My Professional Profile."
+description: "My Pro Profile."
 backgroundColor: "#e6eae9"
 textColor: "#000403"
 borderColor: "#4e6b64"
