@@ -10,7 +10,7 @@ icon:
   alt: "scroll emoji"
 button: 
   text: "CV"
-  link: "https://bit.ly/vivekananda-sai-resume"
+  link: "resume.vivekirl.studio"
   backgroundColor: "#ccd5d3"
   textColor: "#000403"
   borderColor: "#4e6b64"
